@@ -91,14 +91,6 @@ list-style-type: none;
   line-height: 48px;
 }
 
-.codepen{
-position: relative;
-width: 780px;
-height: 237px;
-left: 190px;
-top: 442px;
-}
-
 .dark {
   background: linear-gradient(236.85deg, #041832 27.26%, #3468A7 96.03%);
 }
