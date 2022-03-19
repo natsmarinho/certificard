@@ -53,6 +53,10 @@ body {
   border-radius: 100px;
 }
 
+ul{
+  padding: 0;
+}
+
 .projetos{
   display: flex;
   flex-direction: column;
